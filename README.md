@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mohammad Taha Fakhari
 
-<!--
-**Fakhari-MT/Fakhari-MT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student | Enthusiast in AI, Data Science & Hardware Programming
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+- Python, C++  
+- VHDL, Verilog  
+- Machine Learning, Deep Learning (TensorFlow)  
+- Data Analysis (Pandas, NumPy, Matplotlib)
+
+---
+
+## 📂 Featured Projects
+- *Coming soon* – Selected projects in AI, ML, and Hardware Programming
+
+---
+
+## 📫 Contact
+- 📧 Email: Fakhari.MT@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammadtaha-fakhari-602800373
+  
+---
+
+✦ *À la découverte.*
